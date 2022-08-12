@@ -4,6 +4,8 @@
 <div class="row">
 	<div class="col-sm-6">
 		<h1 class="monospace">
+
+	{% for artist in artist %}
 			{{ artist.name }}
 		</h1>
 		<p class="subtitle">
@@ -69,6 +71,8 @@
 			</div>
 		</div>
 		{% endfor %}
+
+{% endfor %}
 	</div>
 </section>
 

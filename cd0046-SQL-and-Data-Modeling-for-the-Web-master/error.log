@@ -154,3 +154,7 @@ AttributeError: 'VenueForm' object has no attribute 'validate_on_submit'
 2022-08-12 14:51:16,473 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:683]
 2022-08-12 15:02:36,281 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:703]
 2022-08-12 15:02:40,597 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:703]
+2022-08-12 19:04:29,228 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:653]
+2022-08-12 20:31:38,446 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:560]
+2022-08-12 20:31:50,009 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:560]
+2022-08-12 20:39:39,002 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:538]
