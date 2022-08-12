@@ -149,3 +149,8 @@ Traceback (most recent call last):
     return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
   File "app.py", line 298, in create_venue_form
 AttributeError: 'VenueForm' object has no attribute 'validate_on_submit'
+2022-08-12 05:35:44,255 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:640]
+2022-08-12 14:51:07,228 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:683]
+2022-08-12 14:51:16,473 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:683]
+2022-08-12 15:02:36,281 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:703]
+2022-08-12 15:02:40,597 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:703]
